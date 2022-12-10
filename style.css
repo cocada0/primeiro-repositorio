@@ -29,3 +29,17 @@ font=style: italic;
 .imagembeneficios {
      width: 50%;
 }
+ul {
+    display: inline-block;
+    vertical-al-ign: top;
+    width: 20%;
+    margin-right: 15%
+    }
+    .beneficios {
+        background: #FFFFFF;
+        padding: 20px;
+ }
+ .principal  {
+     background: #CCCCCC;
+     padding: 30px;
+ }
