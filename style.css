@@ -4,8 +4,15 @@ body {
      {
          principal {
     background: #CCCCCC;
+    padding: 30px;
 }
-
+.titulo-centralizado {
+ text-align: center 
+      }
+      p {
+       text-align: center;
+      }
+      #missao {
 #banner {
     width: 100%;
 }
