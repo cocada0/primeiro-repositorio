@@ -10,6 +10,8 @@ body {
  text-align: center 
       }
       p {
+       .titulo principal {
+        padding-left: 20px;
        text-align: center;
       }
       #missao {
